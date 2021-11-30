@@ -1,3 +1,4 @@
+/* Sets the box style of every element */
 * {
     box-sizing: border-box;
     padding: 0;
